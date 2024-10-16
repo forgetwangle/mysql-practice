@@ -4,3 +4,5 @@ sql,structed query language，操作关系型数据库的编程语言
 
 启动、停止, net start\stop mysql80
 连接mysql，mysql -u root -p
+
+关系型数据库，rdbms，建立在关系模型的基础上，由多张相互连接的二维表组成的数据库
