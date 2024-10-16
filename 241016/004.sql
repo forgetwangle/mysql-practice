@@ -10,7 +10,7 @@ insert into 表名 values(值1，值2，……),(值1，值2，……),(值1，�
 修改数据 update 表名 set 字段名1=值1,字段名2=值2,……[where 条件];
 
 删除数据 delete from 表名[where 条件];
-删除某个字段的值 update 表名 set 字段名=none[where 条件];
+删除某个字段的值 update 表名 set 字段名=null[where 条件];
 */
 insert into employee(id,workno,name,gender,age,idcard,entrydate)values (1,'1','itcast','男',10,'123456789123456789','2025-01-01');
 insert into employee values(2,'2','张无忌','男',18,'987654321987654321','2018-01-01');
