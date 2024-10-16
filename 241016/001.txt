@@ -1,3 +1,5 @@
 数据库，database,db,存放数据的仓库
 数据库管理系统，database management system,dbms，操纵管理db的大型软件
 sql,structed query language，操作关系型数据库的编程语言
+
+启动、停止, net start\stop mysql80
